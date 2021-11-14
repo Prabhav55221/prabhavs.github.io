@@ -13,7 +13,7 @@ main:
   #   url: /portfolio/
         
   - title: "Current Research"
-    url: /year-archive/
+    url: /current-research/
     
   - title: "CV"
     url: "https://drive.google.com/file/d/1_-K91fC6PiYQmXqHEA9VLCzV0sU6jvMz/view?usp=sharing"

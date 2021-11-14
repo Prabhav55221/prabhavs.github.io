@@ -22,7 +22,9 @@ My other research interests include:
 1. The applications of AI to medicine and healthcare. I have experience working with EEG processing as well as 2D and 3D MRI segmentation and anamoly detection. My previous work also includes leveraging NLP on open source data to analyze trends in healthcare - specifically COVID-19 related scenarios.
 2. Automatic Question Answering Systems & Conversational AIs.
 3. AQG (Automatic Quiz Generation) Systems.
+4. Topic Modelled Extractive Text Summarization
 
+You can read more about what I am doing now in the Current Research Section.
 I am still a beginner in the world of research and I am hoping to expand my knowledge in these areas by pursuing my master's in 2022.
 
 
