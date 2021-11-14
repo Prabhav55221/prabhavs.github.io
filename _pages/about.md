@@ -41,17 +41,17 @@ People and Organizations I Have Worked With
 <tr>
 <td style="text-align:center"><img src="images/nsutug.png" alt="image" width="100px" height="100px"></td>
 <td style="text-align:center">Current</td>
-<td style="text-align:center">Undergraduate Research Assistant</td>
+<td style="text-align:center"><strong>Undergraduate Research Assistant: </strong> Worked on the NLP and speech processing. Currently working on a novel text summarization technique.</td>
 </tr>
 <tr>
 <td style="text-align:center"><img src="images/dkraft.png" alt="image" width="170px"></td>
 <td style="text-align:center">May - Dec 2021</td>
-<td style="text-align:center">Research Scientist (Intern)</td>
+<td style="text-align:center"><strong>Research Scientist (Intern): </strong> Worked on using LDA to analyze the differences in the COVID-19 scenario in USA and India.</td>
 </tr>
 <tr>
 <td style="text-align:center"><img src="images/mdibit.jpg" alt="image" width="200px"></td>
 <td style="text-align:center">May - Nov 2020</td>
-<td style="text-align:center">Research Scientist (Intern)</td>
+<td style="text-align:center"><strong>Research Scientist (Intern): </strong> Working to develop adaptive learning technologies - AQG, Conversational AIs and Question Answering</td>
 </tr>
 </tbody>
 </table>
