@@ -16,7 +16,7 @@ Text Summarization
 *Collegues* - Ridam Srivastava
 *Current State* - In progress. Targeted Publication - Expert Systems (Elsevier)
 
-![image](images/tsum.png)
+![image](./images/tsum.png)
 
 My latest interest includes developing a SOTA extractive text summarization method that focuses on subtopic awareness to improve quality of the summary. Human written summaries
 aim to extract each area covered in a document using a few lines at the most. In a similar manner, our work leverages a variation of LDA in conjugation with K-Medoids Clustering to extract summaries from two datasets.
@@ -28,7 +28,7 @@ AQG Systems
 *Collegues* - Prof. Debarka Sengupta
 *Current State* - In progress for publication and patent
 
-![image](images/aqg.png)
+![image](./images/aqg.png)
 
 In today’s post COVID scenario, it has become imperative to develop smart e-learning solutions to manage distance learning in large institutions. While multiple solutions have been presented to manage these education platforms and to connect the educator to the student, there remains a dearth of systems which can manage the automatic generation and correction of quizzes and assessments. The few existing systems are restrictive in their domain areas and do not exploit the full benefit of modern AI technologies. In this work, we present a solution to this problem by proposing a novel end-to-end approach for quiz generation and correction powered by a bi-modular deep learning based framework. The proposed system can generate and correct both subjective and objective questions thus easing the workload on an instructor. For objective questions, the system allows for absolute correction grading while for subjective questions, it proposed multiple answers to reduce bias towards a single answer. The proposed system is tested on multiple domain areas and robust performance is observed. We also propose certain use cases of the system.
 
