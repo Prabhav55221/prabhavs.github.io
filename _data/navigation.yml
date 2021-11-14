@@ -12,7 +12,7 @@ main:
   # - title: "Portfolio"
   #   url: /portfolio/
         
-  - title: "Other Stuff"
+  - title: "Current Research"
     url: /year-archive/
     
   - title: "CV"
