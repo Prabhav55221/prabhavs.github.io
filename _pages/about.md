@@ -39,17 +39,17 @@ People and Organizations I Have Worked With
 </thead>
 <tbody>
 <tr>
-<td style="text-align:center"><img src="images/nsutug.png" alt="image"></td>
+<td style="text-align:center"><img src="images/nsutug.png" alt="image" width="100px" height="100px"></td>
 <td style="text-align:center">Current</td>
 <td style="text-align:center">Undergraduate Research Assistant</td>
 </tr>
 <tr>
-<td style="text-align:center"><img src="images/dkraft.png" alt="image"></td>
+<td style="text-align:center"><img src="images/dkraft.png" alt="image" width="170px"></td>
 <td style="text-align:center">May - Dec 2021</td>
 <td style="text-align:center">Research Scientist (Intern)</td>
 </tr>
 <tr>
-<td style="text-align:center"><img src="images/mdibit.jpg" alt="image"></td>
+<td style="text-align:center"><img src="images/mdibit.jpg" alt="image" width="200px"></td>
 <td style="text-align:center">May - Nov 2020</td>
 <td style="text-align:center">Research Scientist (Intern)</td>
 </tr>
