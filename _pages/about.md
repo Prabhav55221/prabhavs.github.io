@@ -18,16 +18,28 @@ My Research Interests
 ------
 I leverage machine learning algorithms to improve human-computer interaction. More precisely, my research is aimed at improving the state of language processing to improve communication between human's and computers. I am also interested in the a **multimodal aspect of HCI** and thus some of my work is also aimed at combining NLP with other modalities - most frequently speech.
 
-I have also tinkered in the applications of AI to medicine and healthcare. I have experience working with EEG processing as well as 2D and 3D MRI segmentation and anamoly detection. My previous work also includes leveraging NLP on open source data to analyze trends in healthcare - specifically COVID-19 related scenarios.
+My other research interests include:
+1. The applications of AI to medicine and healthcare. I have experience working with EEG processing as well as 2D and 3D MRI segmentation and anamoly detection. My previous work also includes leveraging NLP on open source data to analyze trends in healthcare - specifically COVID-19 related scenarios.
+2. Automatic Question Answering Systems & Conversational AIs.
+3. AQG (Automatic Quiz Generation) Systems.
 
 I am still a beginner in the world of research and I am hoping to expand my knowledge in these areas by pursuing my master's in 2022.
 
 
-Other Interests
+
+People and Organizations I Have Worked With
 ------
+| Organization                                      | Date                   | Stuff that I did                                             |
+| --------                                          | --------               | ------------------------------------------------------------ |
+| ![image](images/nsutug.png)                       | Current                | Undergraduate Research Assistant                             |
+| ![image](images/dkraft.png)                       | May - Dec 2021         | Research Scientist (Intern)                                  |
+| ![image](images/mdibit.jpg)                       | May - Nov 2020         | Research Scientist (Intern)                                  |
 
 
 
-My Past Education
+My Other Interests
 ------
-
+I wasn't always a computer geek. I also have an avid interest in these areas:
+1. Astrophysics
+2. Graphic Designing
+3. Football
