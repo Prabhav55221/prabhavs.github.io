@@ -29,11 +29,32 @@ I am still a beginner in the world of research and I am hoping to expand my know
 
 People and Organizations I Have Worked With
 ------
-| Organization   | Date  | Stuff that I did  |
-:-------------------------:|:-------------------------:|:---------------------:
-![image](images/nsutug.png) | Current        | Undergraduate Research Assistant   |
-![image](images/dkraft.png) | May - Dec 2021 | Research Scientist (Intern)        |
-![image](images/mdibit.jpg) | May - Nov 2020 | Research Scientist (Intern)        |
+<table class="table table-striped table-bordered">
+<thead>
+<tr>
+<th style="text-align:center">Organization</th>
+<th style="text-align:center">Date</th>
+<th style="text-align:center">Stuff that I did</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center"><img src="images/nsutug.png" alt="image"></td>
+<td style="text-align:center">Current</td>
+<td style="text-align:center">Undergraduate Research Assistant</td>
+</tr>
+<tr>
+<td style="text-align:center"><img src="images/dkraft.png" alt="image"></td>
+<td style="text-align:center">May - Dec 2021</td>
+<td style="text-align:center">Research Scientist (Intern)</td>
+</tr>
+<tr>
+<td style="text-align:center"><img src="images/mdibit.jpg" alt="image"></td>
+<td style="text-align:center">May - Nov 2020</td>
+<td style="text-align:center">Research Scientist (Intern)</td>
+</tr>
+</tbody>
+</table>
 
 
 
