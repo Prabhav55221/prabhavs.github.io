@@ -29,11 +29,11 @@ I am still a beginner in the world of research and I am hoping to expand my know
 
 People and Organizations I Have Worked With
 ------
-| Organization                                      | Date                   | Stuff that I did                                             |
-| --------                                          | --------               | ------------------------------------------------------------ |
-| ![image](images/nsutug.png)                       | Current                | Undergraduate Research Assistant                             |
-| ![image](images/dkraft.png)                       | May - Dec 2021         | Research Scientist (Intern)                                  |
-| ![image](images/mdibit.jpg)                       | May - Nov 2020         | Research Scientist (Intern)                                  |
+| Organization   | Date  | Stuff that I did  |
+:-------------------------:|:-------------------------:|:---------------------:
+![image](images/nsutug.png) | Current        | Undergraduate Research Assistant   |
+![image](images/dkraft.png) | May - Dec 2021 | Research Scientist (Intern)        |
+![image](images/mdibit.jpg) | May - Nov 2020 | Research Scientist (Intern)        |
 
 
 
