@@ -48,12 +48,12 @@ People and Organizations I Have Worked With
 <tr>
 <td style="text-align:center"><img src="images/dkraft.png" alt="image" width="170px"></td>
 <td style="text-align:center">May - Dec 2021</td>
-<td style="text-align:center"><strong>Research Scientist (Intern): </strong> Worked on using LDA to analyze the differences in the COVID-19 scenario in USA and India.</td>
+<td style="text-align:center"><strong>Research Scientist (Intern): </strong> Working to develop adaptive learning technologies - AQG, Conversational AIs and Question Answering </td>
 </tr>
 <tr>
 <td style="text-align:center"><img src="images/mdibit.jpg" alt="image" width="200px"></td>
 <td style="text-align:center">May - Nov 2020</td>
-<td style="text-align:center"><strong>Research Scientist (Intern): </strong> Working to develop adaptive learning technologies - AQG, Conversational AIs and Question Answering</td>
+<td style="text-align:center"><strong>Research Scientist (Intern): </strong> Worked on using LDA to analyze the differences in the COVID-19 scenario in USA and India.</td>
 </tr>
 </tbody>
 </table>
@@ -65,4 +65,3 @@ My Other Interests
 I wasn't always a computer geek. I also have an avid interest in these areas:
 1. Astrophysics
 2. Graphic Designing
-3. Football

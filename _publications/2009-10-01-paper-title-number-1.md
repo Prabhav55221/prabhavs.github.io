@@ -1,15 +1,16 @@
 ---
-title: "Paper Title Number 1"
+title: "A Multimodal Hierarchical Approach To Speech Emotion Recognition From Audio And Texti"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: 'Speech emotion recognition (SER) plays a crucial role in improving the quality of man–machine interfaces in various fields like distance learning, medical science, virtual assistants, and automated customer services. A deep learning-based hierarchical approach is proposed for both unimodal and multimodal SER systems in this work. Of these, the audio-based unimodal system proposes using a combination of 33 features, which include prosody, spectral, and voice quality-based audio features. Further, for the multimodal system, both the above-mentioned audio features and additional textual features are used. Embeddings from Language Models v2 (ELMo v2) is implemented to extract word and character embeddings which helped to capture the context-dependent aspects of emotion in text. The proposed models’ performances are evaluated on two audio-only unimodal datasets – SAVEE and RAVDESS, and one audio-text multimodal dataset – IEMOCAP. The proposed hierarchical models offered SER accuracies of 81.2%, 81.7%, and 74.5% on the RAVDESS, SAVEE, and IEMOCAP datasets, respectively. Further, these results are also benchmarked against recently reported techniques, and the reported performances are found to be superior. Therefore, based on the presented investigations, it is concluded that the application of a deep learning-based network in a hierarchical manner significantly improves SER over generic unimodal and multimodal systems.'
+date: 2021-10-21
+venue: 'Knowledge Based Systems, Elsevier'
+paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0950705121005785'
+citation: 'Singh, P., Srivastava, R., Rana, K. P. S., & Kumar, V. (2021). A multimodal hierarchical approach to speech emotion recognition from audio and text. Knowledge-Based Systems, 229, 107316. https://doi.org/10.1016/J.KNOSYS.2021.107316'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+Speech emotion recognition (SER) plays a crucial role in improving the quality of man–machine interfaces in various fields like distance learning, medical science, virtual assistants, and automated customer services. A deep learning-based hierarchical approach is proposed for both unimodal and multimodal SER systems in this work. Of these, the audio-based unimodal system proposes using a combination of 33 features, which include prosody, spectral, and voice quality-based audio features. Further, for the multimodal system, both the above-mentioned audio features and additional textual features are used. Embeddings from Language Models v2 (ELMo v2) is implemented to extract word and character embeddings which helped to capture the context-dependent aspects of emotion in text. The proposed models’ performances are evaluated on two audio-only unimodal datasets – SAVEE and RAVDESS, and one audio-text multimodal dataset – IEMOCAP. The proposed hierarchical models offered SER accuracies of 81.2%, 81.7%, and 74.5% on the RAVDESS, SAVEE, and IEMOCAP datasets, respectively. Further, these results are also benchmarked against recently reported techniques, and the reported performances are found to be superior. Therefore, based on the presented investigations, it is concluded that the application of a deep learning-based network in a hierarchical manner significantly improves SER over generic unimodal and multimodal systems.
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+[Download paper here](https://www.sciencedirect.com/science/article/abs/pii/S0950705121005785)
+
+Singh, P., Srivastava, R., Rana, K. P. S., & Kumar, V. (2021). A multimodal hierarchical approach to speech emotion recognition from audio and text. Knowledge-Based Systems, 229, 107316. https://doi.org/10.1016/J.KNOSYS.2021.107316
