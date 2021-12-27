@@ -2,7 +2,7 @@
 title: "Applications of Deep Learning to Speech and Language Processing"
 collection: publications
 permalink: /publication/2021_Thesis1
-excerpt: 'Bachelor's Thesis submitted as part of requirement for the degree of BE in ICE, NSIT. In this work, we expore the applications of deep learning to speech
+excerpt: 'Bachelors Thesis submitted as part of requirement for the degree of BE in ICE, NSIT. In this work, we expore the applications of deep learning to speech
 and text processing and discuss its intersection on two tasks - SER and ATS. Novel methodologies are proposed and SOTA models are tested.'
 date: 2021-12-27
 venue: 'Netaji Subhas University (Formerly Institute) Of Technology, Delhi University'
