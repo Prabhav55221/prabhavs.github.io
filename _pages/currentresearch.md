@@ -1,6 +1,6 @@
 ---
 permalink: /current-research/
-title: "My Current Research"
+title: "Current Research"
 excerpt: ""
 author_profile: true
 redirect_from: 
@@ -18,8 +18,10 @@ Text Summarization
 
 ![image](https://prabhav55221.github.io//images/tsum.png)
 
-My latest interest includes developing a SOTA extractive text summarization method that focuses on subtopic awareness to improve quality of the summary. Human written summaries
-aim to extract each area covered in a document using a few lines at the most. In a similar manner, our work leverages a variation of LDA in conjugation with K-Medoids Clustering to extract summaries from two datasets.
+This work investigates an unsupervised extractive summarisation approach that combines topic modeling and clustering. For topic modeling, Latent Dirichlet Allocation is used while K-Medoids clustering is employed for summary generation. The approach is evaluated on two datasets - Wikihow and CNN/DailyMail. The Recall Oriented-Understudy for Gisting Evaluation
+(ROUGE) metrics are used for comparative analysis against recently reported techniques, specifically ROUGE-1 (R-1), ROUGE-2 (R-2) and ROUGE-L (R-L). The suggested framework
+offers scores of 32.30% (R-1), 9.13% (R-2) and 34.80%(R-L) on Wikihow and 43.90% (R-1), 19.01%(R-2) , 41.50% (R-L) on CNN/DailyMail, and the reported performances are found to be
+superior. As a result of these promising outcomes, it is concluded that an unsupervised extractive summarisation approach with greater subtopic focus significantly improves over generic topic modeling, semantic and deep learning approaches. 
 
 
 AQG Systems
@@ -33,12 +35,11 @@ AQG Systems
 In today’s post COVID scenario, it has become imperative to develop smart e-learning solutions to manage distance learning in large institutions. While multiple solutions have been presented to manage these education platforms and to connect the educator to the student, there remains a dearth of systems which can manage the automatic generation and correction of quizzes and assessments. The few existing systems are restrictive in their domain areas and do not exploit the full benefit of modern AI technologies. In this work, we present a solution to this problem by proposing a novel end-to-end approach for quiz generation and correction powered by a bi-modular deep learning based framework. The proposed system can generate and correct both subjective and objective questions thus easing the workload on an instructor. For objective questions, the system allows for absolute correction grading while for subjective questions, it proposed multiple answers to reduce bias towards a single answer. The proposed system is tested on multiple domain areas and robust performance is observed. We also propose certain use cases of the system.
 
 
-<!-- Automatic QA Systems
------- -->
-
 
 Previous Work
 ======
+
+These are the areas that I have worked on in the past.
 
 Speech Emotion Recognition
 ------

@@ -19,10 +19,10 @@ My Research Interests
 I leverage machine learning algorithms to improve human-computer interaction. More precisely, my research is aimed at improving the state of language processing to improve communication between human's and computers. I am also interested in the a **multimodal aspect of HCI** and thus some of my work is also aimed at combining NLP with other modalities - most frequently speech.
 
 My other research interests include:
-1. The applications of AI to medicine and healthcare. I have experience working with EEG processing as well as 2D and 3D MRI segmentation and anamoly detection. My previous work also includes leveraging NLP on open source data to analyze trends in healthcare - specifically COVID-19 related scenarios.
+1. Multimodal techniques for fake news detection along with event discrimination. I am working on systems that can effectively detect fake news using not just text, but other modalities of inputs as well (Images, Videos, GIFs).
 2. Automatic Question Answering Systems & Conversational AIs.
 3. AQG (Automatic Quiz Generation) Systems.
-4. Topic Modelled Extractive Text Summarization
+4. The applications of AI to medicine and healthcare. I have experience working with EEG processing as well as 2D and 3D MRI segmentation and anamoly detection. My previous work also includes leveraging NLP on open source data to analyze trends in healthcare - specifically COVID-19 related scenarios.
 
 You can read more about what I am doing now in the Current Research Section.
 I am still a beginner in the world of research and I am hoping to expand my knowledge in these areas by pursuing my master's in 2022.
@@ -43,12 +43,12 @@ People and Organizations I Have Worked With
 <tr>
 <td style="text-align:center"><img src="images/nsutug.png" alt="image" width="100px" height="100px"></td>
 <td style="text-align:center">Current</td>
-<td style="text-align:center"><strong>Undergraduate Research Assistant: </strong> Worked on the NLP and speech processing. Currently working on a novel text summarization technique.</td>
+<td style="text-align:center"><strong>Undergraduate Research Assistant: </strong> Worked on the intersection of NLP and speech processing to arrive at a novel Multimodal SER System. Pending publications also include a novel unsupervised topic-modeled text summarization approach. Currently working on multimodal fake news detection.</td>
 </tr>
 <tr>
 <td style="text-align:center"><img src="images/dkraft.png" alt="image" width="170px"></td>
 <td style="text-align:center">May - Dec 2021</td>
-<td style="text-align:center"><strong>Research Scientist (Intern): </strong> Working to develop adaptive learning technologies - AQG, Conversational AIs and Question Answering </td>
+<td style="text-align:center"><strong>Research Scientist (Intern): </strong> Working to develop adaptive learning technologies - AQG, Conversational AIs and Question Answering. Led the development of a novel AQG system that is currently in review for a patent in Singapore. </td>
 </tr>
 <tr>
 <td style="text-align:center"><img src="images/mdibit.jpg" alt="image" width="200px"></td>
