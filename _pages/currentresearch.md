@@ -10,11 +10,20 @@ redirect_from:
 
 Following are the areas that I am working on:
 
+Fake News Detection
+------
+*Organization* - Netaji Subhas University of Technology <br />
+*Collegues* - Ridam Srivastava <br />
+*Current State* - Submitted, ESWA, Elsevier <br />
+
+We propose a novel stacked ensemble based architecture for multimodal fake news detection by employing decision level fusion of modalities. To choose the image modality we do a deep test of all existing architectures while keeping a watch on the accuracy-parameter tradeoff. For the image modality, we propose the use of NASNet Mobile Architecture and we report parameter reduction by atleast 4 times while improving image-only accuracy by 7%.For text modality, we introduce an ensemble of two SOTA architectures - ELECTRA and BERT. The ensemble is merged at the decision level using equal weightage averaging. Image and text modalities are also merged at the decision level with the use of equal weightage averaging. The proposed model achieves SOTA performance on the benchmarks while reducing runtime by at least 3 times.
+
+
 Text Summarization
 ------
 *Organization* - Netaji Subhas University of Technology <br />
 *Collegues* - Ridam Srivastava <br />
-*Current State* - Under Review, Knowledge Based Systems, Elsevier <br />
+*Current State* - Minor Revision, Knowledge Based Systems, Elsevier <br />
 
 ![image](https://prabhav55221.github.io//images/tsum.png)
 
