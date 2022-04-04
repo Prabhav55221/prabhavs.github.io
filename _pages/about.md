@@ -21,7 +21,7 @@ I leverage machine learning algorithms to improve human-computer interaction. Mo
 My other research interests include:
 1. Multimodal techniques for fake news detection along with event discrimination. I am working on systems that can effectively detect fake news using not just text, but other modalities of inputs as well (Images, Videos, GIFs).
 2. Automatic Question Answering Systems & Conversational AIs.
-3. AQG (Automatic Quiz Generation) Systems.
+3. Unsupervised approaches to text summarization.
 4. The applications of AI to medicine and healthcare. I have experience working with EEG processing as well as 2D and 3D MRI segmentation and anamoly detection. My previous work also includes leveraging NLP on open source data to analyze trends in healthcare - specifically COVID-19 related scenarios.
 
 You can read more about what I am doing now in the Current Research Section.

@@ -9,7 +9,7 @@ redirect_from:
 
 ## Contact
 
-Contact information is below, including email and various web services.
+Contact information is below, including email and various web services. </br></br>
 
-Personal Email-Id - prabhavsingh55221@gmail.com
-Current Professional Email-Id - prabhavs.ic18@nsut.ac.in
+Personal Email-Id - prabhavsingh55221@gmail.com </br>
+Current Professional Email-Id - prabhavs.ic18@nsut.ac.in </br>
