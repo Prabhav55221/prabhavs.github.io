@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am **Prabhav Singh**, an undergraduate student at [Netaji Subhas Institute of Technology, Delhi University](http://www.nsut.ac.in/). I am pursuing my B.E. in Instrumentation and Control Engineering. However, my interests lie in the filed of Computer Science - A departure from my original major. Most of my formal and informal training is in the field of Supervised ML and Deep Learning. Specifically, I am experienced in the **applications of these technologies to language and speech processing**.
+Hi! I am **Prabhav Singh**, an undergraduate student at [Netaji Subhas Institute of Technology, Delhi University](http://www.nsut.ac.in/). I am pursuing my B.E. in Instrumentation and Control Engineering. However, my interests lie in the filed of Computer Science - A departure from my original major. Most of my formal and informal training is in the field of Supervised ML and Deep Learning. Specifically, I am experienced in **multimodal learning and multimodal learning representations in language and speech processing**.
 
-I am currently working as Undergraduate Research Assistant at NSIT under [Prof. KPS Rana](https://sites.google.com/site/kpsrana1/home) and [Prof. Vineet Kumar](https://sites.google.com/site/drvineetkumar27/). I am also interning as a Research Scientist (NLP) at [D.Kraft Learning](https://dkraftlearning.com/) under [Prof. Debarka Sengupta](https://www.debarka.com/team/debarka).
+I am currently working as Undergraduate Research Assistant at NSIT under [Prof. KPS Rana](https://sites.google.com/site/kpsrana1/home) and [Prof. Vineet Kumar](https://sites.google.com/site/drvineetkumar27/). I also recently interning as a Research Scientist (NLP) at [D.Kraft Learning](https://dkraftlearning.com/) under [Prof. Debarka Sengupta](https://www.debarka.com/team/debarka).
 
 
 
@@ -47,8 +47,8 @@ People and Organizations I Have Worked With
 </tr>
 <tr>
 <td style="text-align:center"><img src="images/dkraft.png" alt="image" width="170px"></td>
-<td style="text-align:center">May - Dec 2021</td>
-<td style="text-align:center"><strong>Research Scientist (Intern): </strong> Working to develop adaptive learning technologies - AQG, Conversational AIs and Question Answering. Led the development of a novel AQG system that is currently in review for a patent in Singapore. </td>
+<td style="text-align:center">May 2021 - Apr 2022</td>
+<td style="text-align:center"><strong>Research Scientist (Intern): </strong> Worked to develop adaptive learning technologies - AQG, Conversational AIs and Question Answering. Led the development of a novel AQG system that is currently in review for a patent in Singapore. </td>
 </tr>
 <tr>
 <td style="text-align:center"><img src="images/mdibit.jpg" alt="image" width="200px"></td>
