@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am **Prabhav Singh**, an undergraduate student at [Netaji Subhas Institute of Technology, Delhi University](http://www.nsut.ac.in/). I am pursuing my B.E. in Instrumentation and Control Engineering. However, my interests lie in the filed of Computer Science - A departure from my original major. Most of my formal and informal training is in the field of Supervised ML and Deep Learning. Specifically, I am experienced in **multimodal learning and multimodal learning representations in language and speech processing**.
+Hi! I am **Prabhav Singh**, an undergraduate student at [Netaji Subhas Institute of Technology, Delhi University](http://www.nsut.ac.in/). I am pursuing my B.E. in Instrumentation and Control Engineering. However, my interests lie in the filed of Computer Science - A departure from my original major. Most of my formal and informal training is in the field of Supervised ML and Deep Learning. Specifically, I am interested in **multimodal learning and multimodal learning representations in language and speech processing**.
 
-I am currently working as Undergraduate Research Assistant at NSIT under [Prof. KPS Rana](https://sites.google.com/site/kpsrana1/home) and [Prof. Vineet Kumar](https://sites.google.com/site/drvineetkumar27/). I also recently interning as a Research Scientist (NLP) at [D.Kraft Learning](https://dkraftlearning.com/) under [Prof. Debarka Sengupta](https://www.debarka.com/team/debarka).
+I am currently working as Undergraduate Research Assistant at NSIT under [Prof. KPS Rana](https://sites.google.com/site/kpsrana1/home) and [Prof. Vineet Kumar](https://sites.google.com/site/drvineetkumar27/). I also recently interned as a Research Scientist (NLP) at [D.Kraft Learning](https://dkraftlearning.com/) under [Prof. Debarka Sengupta](https://www.debarka.com/team/debarka).
 
 
 
